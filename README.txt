@@ -1,0 +1,1 @@
+1. Download Scala binaries for your system2. Add Scala plugin to IntelliJ IDEA3. import the project and run “gameolife”(There seems to be a problem with the JAR file, it’s not runnable)

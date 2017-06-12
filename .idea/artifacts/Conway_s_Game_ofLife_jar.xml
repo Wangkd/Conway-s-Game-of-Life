@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Conway's Game ofLife:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Conway_s_Game_ofLife_jar</output-path>
+    <root id="archive" name="Conway_s Game ofLife.jar">
+      <element id="module-output" name="Conway's Game ofLife" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/scala-2.11.7/lib/scala-actors-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/scala-2.11.7/lib/scala-actors-migration_2.11-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/scala-2.11.7/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/scala-2.11.7/lib/scala-parser-combinators_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/scala-2.11.7/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/scala-2.11.7/lib/scala-swing_2.11-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/scala-2.11.7/lib/scala-xml_2.11-1.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
