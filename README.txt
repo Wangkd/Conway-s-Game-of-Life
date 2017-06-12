@@ -1,1 +1,3 @@
-1. Download Scala binaries for your system2. Add Scala plugin to IntelliJ IDEA3. import the project and run “gameolife”(There seems to be a problem with the JAR file, it’s not runnable)
+this app implements the famous game of "Conway's Game of Life"
+
+User can create the initial state of the cells and control how fast the state changes. 
